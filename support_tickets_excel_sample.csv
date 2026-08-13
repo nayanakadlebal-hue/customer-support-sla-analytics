@@ -1,0 +1,16 @@
+Row Labels,Count of ticket_id,Sum of is_repeat_contact,Repeat Contact %
+Account,1615,198,12.26%
+Billing,1628,199,12.22%
+Bug,1579,542,34.33%
+Feature Request,1591,201,12.63%
+Technical,1587,188,11.85%
+Grand Total,8000,1328,16.60%
+,,,
+,,,
+Row Labels,Repeat Contact %,,
+Account,12.26%,,
+Billing,12.22%,,
+Bug,34.33%,,
+Feature Request,12.63%,,
+Technical,11.85%,,
+,,,
