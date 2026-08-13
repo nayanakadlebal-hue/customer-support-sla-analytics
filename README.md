@@ -47,3 +47,11 @@ Agent-level analysis showed consistent performance across the team (47-50% breac
 - `/excel` — Excel workbook with pivot tables and charts
 - `/data` — dataset (CSV)
 - `/screenshots` — dashboard and chart images
+
+## Dashboard Screenshots
+
+![Power BI Dashboard](powerbi_dashboard.png)
+
+![Excel — Breach % by Product Area](excel_product_area_chart.png)
+
+![Excel — Repeat Contact Rate by Category](excel_repeat_contact_chart.png)
