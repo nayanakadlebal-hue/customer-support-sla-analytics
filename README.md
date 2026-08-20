@@ -55,3 +55,11 @@ Agent-level analysis showed consistent performance across the team (47-50% breac
 ![Excel — Breach % by Product Area](excel_product_area_chart.png)
 
 ![Excel — Repeat Contact Rate by Category](excel_repeat_contact_chart.png)
+
+## Data Modeling — Star Schema
+
+Extended the analysis with a proper star schema (1 fact table + 7 dimension tables) and time intelligence measures.
+
+![Star Schema Model](star_schema_model_view.png)
+
+![Month-over-Month Analysis](month_over_month_analysis.png)
