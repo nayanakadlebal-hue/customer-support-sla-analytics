@@ -63,3 +63,11 @@ Extended the analysis with a proper star schema (1 fact table + 7 dimension tabl
 ![Star Schema Model](star_schema_model_view.png)
 
 ![Month-over-Month Analysis](month_over_month_analysis.png)
+
+## A/B Testing — Ticket Routing Experiment
+
+Ran a statistical A/B test comparing an existing ticket routing method (Control) against a proposed smarter routing method (Treatment), using an independent two-sample t-test in Excel.
+
+**Result:** Treatment group averaged 164.5 min resolution time vs. 180.8 min for Control — a 16.3-minute improvement, with a p-value of 0.0000003 (p < 0.05), confirming the improvement is statistically significant and not due to random chance.
+
+![A/B Test Summary](ab_test_summary.png)
